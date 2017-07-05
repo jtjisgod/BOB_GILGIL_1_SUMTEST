@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-#IFNDEF __SUM_H__
+#ifdef __SUM_H__
 int sum(int n);
-#ENDIF
+#endif
 
 int sum(int n)      {
 
