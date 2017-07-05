@@ -1,4 +1,4 @@
-#include "sum.c"
+#include "sum.h"
 
 int sum(int n) {
 	int i;
